@@ -6,3 +6,7 @@
 ``` java
 System.out.println("Hello world!");
 ```
+
+- [ ] Finish HW6
+- [ ] Get an A in CS471
+- [ ] Be super awesome
